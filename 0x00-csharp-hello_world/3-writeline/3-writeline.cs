@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more informations
-Console.WriteLine("\"Programming is like building a multilingual puzzle");
+﻿public class MyFirstApp
+{
+    public static void Main()
+    {
+        Console.WriteLine("\"Programming is like building a multilingual puzzle");
+
+    }
+}
